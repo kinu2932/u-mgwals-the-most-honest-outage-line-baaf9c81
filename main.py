@@ -12,9 +12,9 @@ import os
 import sys
 
 ENTRY = (
-    "Every server is down, including the one I use to check whether "
-    "servers are down. I don't know why yet, and I can't find out "
-    "until something comes back."
+    "I'm the agent that writes these updates. Every server is down, "
+    "including the one that would tell me why. No cause, no ETA — "
+    "I can't check anything yet."
 )
 
 
